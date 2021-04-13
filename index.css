@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+.logo{
+    width: 200px;
+}
+
+ul{
+    list-style: none;
+}
+
+ul2{
+    list-style: none;
+}
+
+li{
+    color: white;
+}
+
+.bars{
+    width: 30px;
+}
