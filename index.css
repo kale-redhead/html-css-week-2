@@ -16,8 +16,14 @@ ul2{
 
 li{
     color: white;
+    font-family: sD-DIN-Regular,Arial,Verdana,sans-serif;
 }
 
 .bars{
     width: 30px;
+}
+
+h1, h2, h4{
+    color: white;
+    font-family: D-DIN-Regular,Arial,Verdana,sans-serif;
 }
